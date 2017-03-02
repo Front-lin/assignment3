@@ -1,0 +1,63 @@
+body{
+	background: black;
+	padding: 20px;
+}
+
+.bg{
+	background: white;
+	padding: 20px;
+	overflow: hidden;
+	height: 100%;
+}
+.bg_1{
+	background: #eee;
+	border: 1px solid #999;
+	padding: 20px;
+	display: table;
+}
+.team{
+	
+	background: white;
+	padding: 20px;
+	border: 1px solid #999;
+	width: 200px;
+	margin-right: 20px;
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+.team_1{
+	background: #eee;
+	border: 1px solid #999;
+	float: left;
+}
+.introduce{
+	background: white;
+	border: 1px solid #999;
+	padding: 20px;
+	margin:0px 200px 140px 270px;
+}
+.personage{
+	width: 120px;
+	background: white;
+	border: 1px solid #999;
+	padding: 20px;
+	position: absolute;
+	top: 60px;
+	right: 60px;
+}
+.personage_1{
+	background: #eee;
+	border: 1px solid #999;
+	display: table;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+.personage_text{
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
